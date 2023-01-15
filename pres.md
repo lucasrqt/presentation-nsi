@@ -29,7 +29,7 @@ marp: true
 # Organisation des cours
 
  - Fonctionne avec le format CM/TD/TP (pas universel, certaines matières n'ont pas de TP)
-     - CM => cours théorique
+     - CM => cours théoriques
      - TD => exercices sur la théorie 
      - TP => exercices pratiques
  
@@ -68,7 +68,7 @@ marp: true
 ## Rennes
  - Licence très générale
  - Licence Info/Elec: électronique en L1/L2
- - Campus plus vivant (beaucoup d'asso, 1 pour l'ISTIC, 1 de robotique, ...)
+ - Campus vivant (beaucoup d'assos, 1 pour l'ISTIC, 1 de robotique, ...)
  - promo ~200 personnes
  - TP en binôme
 
