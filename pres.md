@@ -8,6 +8,15 @@ marp: true
 
 ---
 
+# Qui suis-je ?
+
+ - Lucas, étudiant en 1ère année de Master Cybersécurité à Rennes
+ - Ancien lycéen de Benjamin Franklin
+ - L1/L2 Informatique à L'Université de Bretagne Sud (à Vannes)
+ - L3 à L'Université de Rennes 1 (Université de Rennes depuis janvier 2023)
+
+---
+
 # Contenu des cours
 
  - Contenu de la L1/L2 très proche de la spé NSI
@@ -57,6 +66,8 @@ marp: true
  - Licence très générale
  - Licence Info/Elec: électronique en L1/L2
  - Campus plus vivant (beaucoup d'asso, 1 pour l'ISTIC, 1 de robotique, ...)
+ - promo ~200 personnes
+ - TP en binôme
 
 ---
 
@@ -64,6 +75,8 @@ marp: true
  - Tronc commun maths/info/stats (stats sont complètement optionnelles)
  - Choix de cours dès la L1 (plutôt orienté maths, ou info, ou stats)
  - Options physique en L1 (les 2 semestres), ou économie (pour les hérétiques)
+ - promo ~60 personnes (maths/info/stats confondus)
+ - TP se font seuls (en grande majorité)
 
 ---
 
@@ -73,10 +86,14 @@ marp: true
  - Certaines matières n'ont pas de TP (les plus théoriques n'ont que TD)
  - Très loin d'être tout le temps en train de programmer (cf. proportions cours)
  - Essayez d'en faire le maximum possible (quit à avoir pas mal d'acquis, autant les exploiter au mieux)
+ - Autonomie complète pour travailler, personne va vérifier vos devoirs
 
-###### Cependant
- Pas besoin d'être bon en maths pour avoir sa licence (pas une raison pour abandonner, surtout si on s'oriente vers la cyber)
+---
 
+# Cependant
+ - Pas besoin d'être bon en maths pour avoir sa licence (pas une raison pour abandonner, surtout si on s'oriente vers la cyber)
+ - Encadrement des L1 (à Vannes et Rennes) par des enseignant de la licence (rôle de tuteurs), pour vous accompagner
+ 
 ---
 
 # Charge de travail 
@@ -107,6 +124,8 @@ marp: true
 
  - Mail: lucasroquet@pm.me
  - Discord: Hubert#1449 
+
+###### Diapo disponible ici : https://github.com/lucasrqt/presentation-nsi
 
 --- 
 
