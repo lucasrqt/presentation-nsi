@@ -1,0 +1,39 @@
+PRESENTATION SPE NSI
+
+- CONTENU DES COURS
+	comparaison spé NSI et programme L1/L2 => globalement similaire mais plus approfondi
+		apporte beaucoup de prérequis quand meme
+		risque de s'ennuyer (mais laisse du temps pour projets persos)
+	
+	exemples d'edt (https://ent.univ-rennes1.fr/, pas dispo pour vannes même si c'est le mm nb d'heures)
+	~ 20h/semaines, majorité blocs de 2h de cours à rennes (à vannes 1h30 depuis 2020)
+		
+	TP assez diversifiés => projets ou alors 1 tp par thème du cours (dépend de la matière)
+	
+	charge de travail: 
+		- moi (sans spé nsi): globalement je n'ai pas travaillé comme un dingue, certaines manières demandent plus d'investissement mais globalement c'était raisonnable (et j'ai eu des bons résultats)
+		
+		- L1 : franchement c'est OK (même pour ceux qui ont pas fait term NSI)
+		
+	Warnings : 
+		- NE PAS Y ALLER POUR ESPERER FAIRE QUE DE LA PROGRAMMATION 
+		- y'a des maths et pas les plus faciles (fin en L2 pour ceux qui prennent spé info)
+		- pas mal de matières théoriques (surtout à rennes, licence très générale)
+		- certaines matières (surtout théoriques) n'ont pas de TP
+		- loin d'être tout le temps devant l'ordi (chiffres de rennes 1 pour la L1: 50% TD, 30%TP, 20% CM)
+		- essayer de pas se limiter au minimum et d'être au maximum curieux (pas facile mais pleins de thèmes sont intéressants)
+	
+	On peut très bien réussir sa licence en étant mauvais en math (warning pour ceux qui veulent faire de la cyber quand même)
+
+	Rennes => bcp + d'électronique qu'à Vannes
+	       => asso pour les élèves de l'istic, asso diverses sur le campus, asso de robotique (crée cette année par des L1)
+
+- JPO rennes 1/ UBS : 04/02
+
+- sites contenu des cours :
+	UBS: https://www-informatique.univ-ubs.fr/licence-info/index.shtml
+	ISTIC: https://formations.univ-rennes.fr/licence-mention-informatique-parcours-informatique
+	
+- coordonnées:
+	mon discord : Hubert#1449
+	mail: lucasroquet@pm.me
