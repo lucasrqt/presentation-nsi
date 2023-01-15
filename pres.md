@@ -21,7 +21,7 @@ marp: true
 
  - Contenu de la L1/L2 très proche de la spé NSI
  - La spé va donner de gros prérequis
- - Certains points sont plus appronfondis
+ - Certains points sont plus appronfondis (heureusement)
    - mais risque de s'ennuyer parfois
 
 ---
@@ -77,7 +77,7 @@ marp: true
 ## Vannes
  - Tronc commun maths/info/stats (stats sont complètement optionnelles)
  - Choix de cours dès la L1 (plutôt orienté maths, ou info, ou stats)
- - Options physique en L1 (les 2 semestres), ou économie (pour les hérétiques)
+ - Options physique en L1 (les 2 semestres), et 1er semestre de L2
  - promo ~60 personnes (maths/info/stats confondus)
  - TP se font seuls (en grande majorité)
 
@@ -88,7 +88,7 @@ marp: true
  - Beaucoup de matières théoriques 
  - Certaines matières n'ont pas de TP (les plus théoriques n'ont que TD)
  - Très loin d'être tout le temps en train de programmer (cf. proportions cours)
- - Essayez d'en faire le maximum possible (quit à avoir pas mal d'acquis, autant les exploiter au mieux)
+ - Beaucoup de temps libre peut être traitre
  - Autonomie complète pour travailler, personne va vérifier vos devoirs
 
 ---
