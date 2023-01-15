@@ -29,18 +29,21 @@ marp: true
 # Organisation des cours
 
  - Fonctionne avec le format CM/TD/TP (pas universel, certaines matières n'ont pas de TP)
- - CM -> cours théorique, TD -> exercices sur la théorie, TP -> exercices pratiques
+     - CM => cours théorique
+     - TD => exercices sur la théorie 
+     - TP => exercices pratiques
+ 
  - TP diffèrent selon les matières, soit un projet soir un TP par thème du cours
 
 ---
 
 # Volume horaire
 
- - Rennes/Vannes: ~ 20h/semaines
+ - Rennes/Vannes: ~20h/semaines
     - Rennes: Blocs de 2h (sauf exceptions)
     - Vannes: Blocs de 1h30 (depuis septembre 2020)
  - Rennes: L1 => 20% CM, 30% TP et 50% TD
- - Rennes: vous pouvez les consulter sur l'ENT (https://ent.univ-rennes1.fr)
+ - Rennes: vous pouvez les consulter les emplois du temps sur l'ENT (https://ent.univ-rennes1.fr)
 
 ---
 
