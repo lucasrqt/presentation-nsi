@@ -33,7 +33,7 @@ marp: true
      - TD => exercices sur la théorie 
      - TP => exercices pratiques
  
- - TP diffèrent selon les matières, soit un projet soir un TP par thème du cours
+ - TP diffèrent selon les matières, soit un projet, soit un TP par thème du cours
 
 ---
 
